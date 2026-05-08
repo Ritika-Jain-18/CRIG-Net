@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Compiled libraries
+*.so
+
+# Checkpoints / weights
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# Dataset folders
+datasets/
+data/
+
+# WandB
+wandb/
+
+# System
+.DS_Store
